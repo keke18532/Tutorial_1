@@ -1,1 +1,3 @@
-# Tutorial_1
+git add .
+git commit -m "(message)"
+git push origin
